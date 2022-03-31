@@ -1,3 +1,5 @@
+language = "python3"
+run = "python3 bot/main.py"
 
 import os
 import discord
